@@ -1,0 +1,56 @@
+{
+  "hash": "26495892",
+  "browserHash": "c371e21a",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "f00ae5b4",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "87d07053",
+      "needsInterop": true
+    },
+    "axios": {
+      "src": "../../axios/index.js",
+      "file": "axios.js",
+      "fileHash": "39b1996c",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "f50ff402",
+      "needsInterop": true
+    },
+    "react-owl-carousel": {
+      "src": "../../react-owl-carousel/umd/OwlCarousel.js",
+      "file": "react-owl-carousel.js",
+      "fileHash": "3d5f9209",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "ee6c0e0a",
+      "needsInterop": false
+    },
+    "react-yandex-map": {
+      "src": "../../react-yandex-map/dist/production/react-yandex-maps.esm.js",
+      "file": "react-yandex-map.js",
+      "fileHash": "bb07019a",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-ZOIWZPCO": {
+      "file": "chunk-ZOIWZPCO.js"
+    },
+    "chunk-DFKQJ226": {
+      "file": "chunk-DFKQJ226.js"
+    }
+  }
+}
